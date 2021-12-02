@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SignInUp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/myorange</item>
+        <item name="colorPrimaryVariant">@color/myorange</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/mygrey</item>
+        <item name="colorSecondaryVariant">@color/mygrey</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" >@color/mybackgound</item>
+        <!-- Customize your theme here. -->
+        <item name="android:navigationBarColor">@color/mybackgound</item>
+        <item name="navigationIconTint">@color/myorange</item>
+        <item name="navigationIcon">@color/mygrey</item>
+    </style>
+</resources>
